@@ -1,3 +1,4 @@
 .venv/
 Encrypted.txt
-retail_space.csv
+retail_space.csv/
+.gitignore/
